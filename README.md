@@ -1,2 +1,2 @@
-# Dgango3-password-generator
+# Django3-password-generator
 First django-project + bootstrap
